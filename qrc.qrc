@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="img">
+    <file>img/21.png</file>
+    <file>img/关闭.png</file>
+    <file>img/最小化.png</file>
+    <file>img/ai.ico</file>
+  </qresource>
+</RCC>
